@@ -5,12 +5,11 @@ The categories involved in classification are based on Ekman Model which are:
 
 We used FER2013, KDEF, CK+ and JAFFE datasets to train models.
 <p>Below are the results on FER2013 and KDEF </p> 
-<p>Achieved following results on FER2013 on the best model 
-** loss **: 0.7441 - **accuracy**: 0.7314 - **val_loss**: 0.8639 - **val_accuracy**: 0.6893
-</p>
-<p>Achieved following results on KEDF on the best model
+<p>Achieved following results on FER2013 on the best model </p>
+**loss**: 0.7441 - **accuracy**: 0.7314 - **val_loss**: 0.8639 - **val_accuracy**: 0.6893
+<p>Achieved following results on KEDF on the best model</p>
 **loss**: 0.1239 - **accuracy**: 0.9606 - **val_loss**: 0.4496 - **val_accuracy**: 0.8857
-</p>
+
 
 
 <div align="center">
