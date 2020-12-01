@@ -13,3 +13,4 @@ loss: 0.1239 - accuracy: 0.9606 - val_loss: 0.4496 - val_accuracy: 0.8857
 Deployed the best models on a development server using Flask API and created a web page to display the results.
 
 
+![](diagrams/system_2-2.png)
