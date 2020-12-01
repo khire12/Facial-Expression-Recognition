@@ -14,4 +14,10 @@ Deployed the best models on a development server using Flask API and created a w
 
 
 ![System Architecture](diagrams/system_2-2.png)
-\tSystem Architecture
+System Architecture
+
+
+<div align="center">
+<img src="diagrams/sa.JPG" >
+<p>System Architecture</p>
+</div>
