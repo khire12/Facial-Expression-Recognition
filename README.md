@@ -15,13 +15,19 @@ Deployed the best models on a development server using Flask API and created a w
 
 <div align="center">
 <img src="diagrams/sa.JPG" >
-<p></p>
-</div>
-
-<div align="center">
-<img src="diagrams/system_2-2.JPG" >
 <p>System Architecture</p>
 </div>
 
+
+<div align="center">
+<img src="diagrams/system_1.JPG" >
+<p>Image Classification</p>
+</div>
+
+
+<div align="center">
+<img src="diagrams/system_2-2.png" >
+<p>Deployment Architecture</p>
+</div>
 
 
