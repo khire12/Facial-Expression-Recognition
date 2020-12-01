@@ -11,9 +11,7 @@ loss: 0.7441 - accuracy: 0.7314 - val_loss: 0.8639 - val_accuracy: 0.6893
 <p>Achieved following results on KEDF on the best model
 loss: 0.1239 - accuracy: 0.9606 - val_loss: 0.4496 - val_accuracy: 0.8857
 </p>
-<p>
-Deployed the best models on a development server using Flask API and created a web page to display the results.
-</p>
+
 
 <div align="center">
 <img src="diagrams/sa.JPG" >
@@ -26,7 +24,9 @@ Deployed the best models on a development server using Flask API and created a w
 <p>Image Classification</p>
 </div>
 
-
+<p>
+Deployed the best models on a development server using Flask API and created a web page to display the results.
+</p>
 <div align="center">
 <img src="diagrams/system_2-2.png" >
 <p>Deployment Architecture</p>
