@@ -22,7 +22,7 @@ Deployed the best models on a development server using Flask API and created a w
 
 
 <div align="center">
-<img src="diagrams/system_1.JPG" >
+<img src="diagrams/system_1.png" >
 <p>Image Classification</p>
 </div>
 
